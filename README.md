@@ -11,10 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,12 +31,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/markjt031/product-preview-card-component]([github](https://github.com/markjt031/product-preview-card-component))
+- Live Site URL: [(https://markjt031.github.io/product-preview-card-component/)](https://markjt031.github.io/product-preview-card-component/)
 
 ## My process
 
-I started by trying to get the mobile design as close as possible to the original. 
+I started by trying to get the mobile design as close as possible to the original and trying to avoid using exact pixel units. This
+process of doing the mobile design first made creating the desktop display much easier.
 
 ### Built with
 
@@ -51,7 +49,7 @@ I started by trying to get the mobile design as close as possible to the origina
 
 ### What I learned
 
-I used this project to learn how to calculate REM, EM and margin percentages, which turned out to be much easier than I thought it was.
+I used this project to learn how to calculate REM and EM for font sizes and percentages for margins, which turned out to be much easier than I thought it was.
 
 
 
